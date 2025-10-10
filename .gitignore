@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models & Data (too large for git)
+models/*.pkl
+models/*.joblib
+models/*.h5
+
+# Reports (generated files)
+reports/*.png
+reports/*.pdf
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+
+# Environment
+.env
