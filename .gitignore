@@ -27,3 +27,4 @@ reports/*.pdf
 
 # Environment
 .env
+.claude

@@ -1,6 +1,7 @@
 # CS148_25Fall - Student Performance Analysis
 
-**Team xxxx** | CS M148 Fall 2025 | UCLA
+**Team LMAO** | CS M148 Fall 2025 | UCLA
+This is the Team LMAO, together with Micheal Ji, Chong Han, Songyou Yang, Kevin Zheng, Deysi Chen Li, Ovin; We are here working together for the course CS M148 in 2025 Fall at UCLA
 
 ## Overview
 
